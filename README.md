@@ -18,5 +18,5 @@ API
 BOOTSTRAP 3 
 
 ### LIVE DEMO 
-https://alabi4good.github.io/pig-game/Random-Quote-Machine/ 
+https://alabi4good.github.io/Random-Quote-Machine/ 
   
