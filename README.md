@@ -1,6 +1,6 @@
 # Random-Quote-Machine  
 ***
-A javascript App that displays random quotes dynamically on the UI fetching these quotes from an API. 
+A javascript App that displays random quotes and its authors dynamically on the UI fetching these quotes from an API server. I used the quote and design api to achieve this. 
 
 
 ## LANGUAGES USED
@@ -8,7 +8,8 @@ A javascript App that displays random quotes dynamically on the UI fetching thes
 
 HTML5  
 CSS3
-SCSS  
+SCSS
+FONT AWESOME  
 JAVASCRIPT/JQUERY  
 API 
 

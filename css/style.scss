@@ -9,7 +9,6 @@ body{
     margin: 0;
     padding: 0;
     width: percentage(1);
-    height: 100vh;
     overflow-y: hidden;
 }
 
@@ -79,6 +78,7 @@ body{
                 height: 50px;
                 display: inline-block;
             }
+    
 
             &#btn{
                 margin-left: 178px; 
