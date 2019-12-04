@@ -7,10 +7,10 @@ A javascript App that displays random quotes and its authors dynamically on the 
 ***
 
 HTML5  
-CSS3
-SCSS
-FONT AWESOME  
-JAVASCRIPT/JQUERY  
+CSS3,
+SCSS,
+FONT AWESOME,  
+JAVASCRIPT/JQUERY,
 API 
 
 

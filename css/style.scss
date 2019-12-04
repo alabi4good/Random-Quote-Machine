@@ -10,7 +10,9 @@ body{
     padding: 0;
     width: percentage(1);
     overflow-y: hidden;
+
 }
+
 
 *{
     @include boxSizing(border-box);
@@ -106,10 +108,22 @@ body{
     color: #fff;
 }
 
+.colorChange{
+    animation: color-change 2s linear infinite;
+}
 @keyframes name {
     0%{opacity: 0;}
     50%{opacity: .5;}
     100%{opacity: 1;}
+}
+
+@keyframes color-change{
+    0%, 100% {
+        filter: hue-rotate(0deg);
+    }
+    50%{
+        filter: hue-rotate(360deg);
+    }
 }
 
 
